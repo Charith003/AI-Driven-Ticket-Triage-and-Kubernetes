@@ -1,1 +1,0 @@
-# AI-Driven-Ticket-Triage-and-Kubernetes
